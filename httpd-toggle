@@ -1,0 +1,7 @@
+if [ -f /var/run/lighttpd.pid ] ; then
+	sudo /etc/init.d/lighttpd stop
+	exit 3
+else
+	sudo /etc/init.d/lighttpd start
+	exit
+fi
