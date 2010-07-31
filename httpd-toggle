@@ -1,5 +1,6 @@
 # stop lighttpd if it's running or start it if it's not
 # used for a desktop widget
+# (c) David Hulbert 2010 BSD/MIT license
 
 if [ -f /var/run/lighttpd.pid ] ; then
 	sudo /etc/init.d/lighttpd stop
