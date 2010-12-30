@@ -5,3 +5,12 @@ No warranty. BSD / MIT license. Enjoy.
 dave1010@gmail.com
 http://twitter.com/dave1010
 http://talk.maemo.org/member.php?u=42799
+
+2g3g.sh		Switch between 2G and 3G
+README		This file
+gps.py		Echo the current lat / long
+gpsdump.sh	Dump the lat / long to a file
+httpd-toggle	Toggle lightttpd
+m4a2mp3.sh	Convert M4A files to MP3 (not working)
+playlist.sh	Make playlist files from folders
+wifi.sh		Toggle wifi
