@@ -11,6 +11,7 @@ README		This file
 gps.py		Echo the current lat / long
 gpsdump.sh	Dump the lat / long to a file
 httpd-toggle	Toggle lightttpd
+lastsms.sh	Show the text of your last SMS message
 m4a2mp3.sh	Convert M4A files to MP3 (not working)
 playlist.sh	Make playlist files from folders
 sms.py		Send SMS from command line
